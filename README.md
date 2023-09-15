@@ -4,7 +4,7 @@ This Node.js project showcases the process of receiving MQTT messages, extractin
 
 ## Motivation
 
-The primary goal of this project is to provide a streamlined method for collecting sensor data from various MQTT-enabled devices in my home network and visualize it using Grafana dashboards. This eliminates the need for more resource-intensive solutions like NodeRED, offering a lightweight and customizable alternative. Personally, I was never satisfied with the often used NodeRED, which led me to develop a custom solution.
+The primary goal of this project is to provide a streamlined method for collecting sensor data from various MQTT-enabled devices in my home network and visualize it using Grafana dashboards. This eliminates the need for more resource-intensive solutions like NodeRED, offering a lightweight and customizable alternative. 
 
 ## Features
 
