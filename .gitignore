@@ -1,0 +1,12 @@
+# Node.js-Module
+node_modules/
+
+# Generierte Dateien
+package-lock.json
+
+# Lokale Konfigurationsdateien
+.env
+
+# Entwicklungsumgebung
+.vscode/
+.DS_Store
