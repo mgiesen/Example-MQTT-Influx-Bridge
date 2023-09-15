@@ -1,6 +1,6 @@
 # MQTT-Influx-Bridge
 
-This Node.js project demonstrates how to receive MQTT messages, extract specific JSON keys, and forward them to custom callback functions. Built upon my existing [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser/tree/main) library, this project extends the functionality by integrating with an InfluxDB database for storing the extracted data.
+This Node.js project showcases the process of receiving MQTT messages, extracting specific JSON keys, and storing them in an InfluxDB table. It utilizes my [mqttJsonParser](https://github.com/mgiesen/mqttJsonParser/tree/main) library for message reception and parsing.
 
 ## Motivation
 
